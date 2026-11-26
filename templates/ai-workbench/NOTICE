@@ -1,0 +1,10 @@
+AI Workbench Template
+
+Contains code and skill documentation extracted and adapted from ZJU-REAL/Easel
+https://github.com/ZJU-REAL/Easel
+Licensed under the Apache License, Version 2.0. See LICENSE.
+
+Modifications: portable package/environment namespace; independent FastAPI shell,
+SQLite jobs and sessions; modular business registration; isolated instance
+configuration and assets; reusable frontend; template creation and packaging.
+Source attribution and per-file extraction hashes: docs/extraction-manifest.json.

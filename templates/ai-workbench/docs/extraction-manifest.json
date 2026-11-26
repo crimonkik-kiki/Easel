@@ -1,0 +1,219 @@
+{
+  "upstream": "https://github.com/ZJU-REAL/Easel",
+  "license": "Apache-2.0",
+  "date": "2026-10-27",
+  "files": [
+    {
+      "source": "easel/harnesses/acp.py",
+      "sha256": "9278df80ef4b9d912ef34d9d06572d111408124f0f16dbc6a3bdfa26692b7f8c",
+      "target": "workbench/harnesses/acp.py",
+      "changes": [
+        "package namespace and environment prefix generalized",
+        "workspace integration generalized where necessary"
+      ],
+      "target_sha256": "a8701e57c8e52a732ddfde9fb0b83168508825b59b7dd4679ef0d2d688213732"
+    },
+    {
+      "source": "easel/harnesses/base.py",
+      "sha256": "d9d96ee2c651340a01a9bc898e71d1075aa036d8121d3ad8ee484adebb44ae57",
+      "target": "workbench/harnesses/base.py",
+      "changes": [
+        "package namespace and environment prefix generalized",
+        "workspace integration generalized where necessary"
+      ],
+      "target_sha256": "d9d96ee2c651340a01a9bc898e71d1075aa036d8121d3ad8ee484adebb44ae57"
+    },
+    {
+      "source": "easel/harnesses/codex.py",
+      "sha256": "e3cb14c8400ac37ee5631249c6e41d604cee9a447c55349000e733c5f8c5c94c",
+      "target": "workbench/harnesses/codex.py",
+      "changes": [
+        "package namespace and environment prefix generalized",
+        "workspace integration generalized where necessary"
+      ],
+      "target_sha256": "3cfbde76f27de34bb9dfeb71885333c53a2d3c1c73a4a6e884b2aa761ed09856"
+    },
+    {
+      "source": "easel/harnesses/commands.py",
+      "sha256": "bee9fdbfdf12b93a76ccce58445793b4e76201eedba0873c2b41065f14c887f6",
+      "target": "workbench/harnesses/commands.py",
+      "changes": [
+        "package namespace and environment prefix generalized",
+        "workspace integration generalized where necessary"
+      ],
+      "target_sha256": "bee9fdbfdf12b93a76ccce58445793b4e76201eedba0873c2b41065f14c887f6"
+    },
+    {
+      "source": "easel/harnesses/models.py",
+      "sha256": "28da445af5fc4d53e5c954e8ea6d7d73a462410d05aaffd273c8ae7c7a9f5565",
+      "target": "workbench/harnesses/models.py",
+      "changes": [
+        "package namespace and environment prefix generalized",
+        "workspace integration generalized where necessary"
+      ],
+      "target_sha256": "16746622cc16094cf5a4c21aa3bfe55eee60b6dc6179c36b4f0626960a7f7dfa"
+    },
+    {
+      "source": "easel/harnesses/permissions.py",
+      "sha256": "a1b791d50f1017abc8953424c949549e1bdd75799fa48b4d58be761236c7bc46",
+      "target": "workbench/harnesses/permissions.py",
+      "changes": [
+        "package namespace and environment prefix generalized",
+        "workspace integration generalized where necessary"
+      ],
+      "target_sha256": "a1b791d50f1017abc8953424c949549e1bdd75799fa48b4d58be761236c7bc46"
+    },
+    {
+      "source": "easel/harnesses/rpc.py",
+      "sha256": "f4593d9157c3d88e88a1a6dac7feeaba5a6c1415be49f9c3c1aa05c9dfbc0b64",
+      "target": "workbench/harnesses/rpc.py",
+      "changes": [
+        "package namespace and environment prefix generalized",
+        "workspace integration generalized where necessary"
+      ],
+      "target_sha256": "261e64332b5d418d5b9de206b31f00e7bdba1b0f264a83b00f7c608cc80d9386"
+    },
+    {
+      "source": "easel/harnesses/store.py",
+      "sha256": "115763be01d904535a56995a3e0dc246a6d7ed7c0adc6de34d03326397a46ba1",
+      "target": "workbench/harnesses/store.py",
+      "changes": [
+        "package namespace and environment prefix generalized",
+        "workspace integration generalized where necessary"
+      ],
+      "target_sha256": "f2574e01e31b929413f5c236e65f193c891c58b54e653c7efe3c05672ed37486"
+    },
+    {
+      "source": "easel/harnesses/workbuddy.py",
+      "sha256": "0443a98100773672406951f661bf34fba7fc3a53d42b9ff1cd8aa27b7cd77d05",
+      "target": "workbench/harnesses/workbuddy.py",
+      "changes": [
+        "package namespace and environment prefix generalized",
+        "workspace integration generalized where necessary"
+      ],
+      "target_sha256": "1e97bc36d6e116770c459847dce53bf64c9fe5f45137e8099d9d4133815bcf78"
+    },
+    {
+      "source": "easel/harnesses/workspace.py",
+      "sha256": "b4375c537f016ca99e317bb3a077a197b5cc77a616ef5b33d470153e8f50e95b",
+      "target": "workbench/harnesses/workspace.py",
+      "changes": [
+        "package namespace and environment prefix generalized",
+        "workspace integration generalized where necessary"
+      ],
+      "target_sha256": "0f18a02612ff158d09472733f3088c8c6b6127276907f296a30bf105a3d83c6a"
+    },
+    {
+      "source": "easel/direct_api.py",
+      "sha256": "2d88502ec0f53e6cd53f423243e462c8e0f0ff49137f42bd6ad8e2a8f8f97c9a",
+      "target": "workbench/direct_api.py",
+      "changes": [
+        "package namespace and environment prefix generalized",
+        "workspace integration generalized where necessary"
+      ],
+      "target_sha256": "829e34f64d16528c331b945596f460d25e565233c23b51d488ea8926be2dc2dd"
+    },
+    {
+      "source": "easel/runtime_env.py",
+      "sha256": "f9604a0b8eb709f6dc15188f808c5d11a33bc2bb5f240bbb1786e66ff648f08b",
+      "target": "workbench/runtime_env.py",
+      "changes": [
+        "package namespace and environment prefix generalized",
+        "workspace integration generalized where necessary"
+      ],
+      "target_sha256": "1857b74f5f3b96c15163af1368f25f43aad9d000c56f7a839768e30704339552"
+    },
+    {
+      "source": "easel/codex_images.py",
+      "sha256": "0a279e568d5921b095a9a869cfd6e9eb7a9cde9a0758261f1bc423f034c2d2cc",
+      "target": "workbench/codex_images.py",
+      "changes": [
+        "package namespace and environment prefix generalized",
+        "workspace integration generalized where necessary"
+      ],
+      "target_sha256": "87fe40457758e96285edbbee09a7a482ad4038419d630fd8cf54892d75354447"
+    },
+    {
+      "source": "easel/openclaw_cmd.py:_npmrc_prefix",
+      "target": "workbench/runtime_env.py",
+      "changes": [
+        "Extracted only npm prefix discovery helper; no OpenClaw startup or original app dependency"
+      ],
+      "target_sha256": "1857b74f5f3b96c15163af1368f25f43aad9d000c56f7a839768e30704339552"
+    }
+  ],
+  "skill_count": 114,
+  "package_namespace": "workbench",
+  "credential_environment_prefix": "WORKBENCH_",
+  "included_skills": [
+    "text-polisher",
+    "text-condenser",
+    "paper-explainer"
+  ],
+  "omitted_business_features": [
+    "social account login and cookies",
+    "platform publishing and browser automation",
+    "operations analytics",
+    "Clipify workflow",
+    "user profiles and existing files"
+  ],
+  "template_version": "0.3.0",
+  "ui_extraction": [
+    {
+      "source": "web/frontend/src/styles/index.css",
+      "source_sha256": "c374e7595a043446faf3b50a9b97aaf2ea22988e32679ea4923f8d60076201fb",
+      "target": "frontend/src/styles/easel-base.css",
+      "target_sha256": "a8fb8a32f1efd7076d9acbde92f5cf7ca22690d27347d19d0557e492c4ea4fd0",
+      "changes": "Extracted palette, layout, shared controls, chat, skills, outputs, sidebar sessions, dashboard, gallery and settings shell; business page styles omitted"
+    },
+    {
+      "source": "web/frontend/src/styles/theme.css",
+      "source_sha256": "55757a5e322a6781df503eb41859bd49e12fd9e20681b199d532587451eee51a",
+      "target": "frontend/src/styles/easel-theme.css",
+      "target_sha256": "55757a5e322a6781df503eb41859bd49e12fd9e20681b199d532587451eee51a",
+      "changes": "Copied original theme palette and rules; template-specific contrast fix is separate"
+    },
+    {
+      "source": "web/frontend/src/components/icons.tsx",
+      "source_sha256": "b7d80e99dfdc86412b69b8b7424054ec2230f2c0e13b60838b945dc767fbe7db",
+      "target": "frontend/src/components/icons.tsx",
+      "target_sha256": "b7d80e99dfdc86412b69b8b7424054ec2230f2c0e13b60838b945dc767fbe7db",
+      "changes": "Copied original linear icons"
+    },
+    {
+      "source": "web/frontend/src/components/settingsIcons.tsx",
+      "source_sha256": "c17ad01881e4698d9c6cb9c46dc0c79f774f48af7646b6b5729ac9e539f3e5c0",
+      "target": "frontend/src/components/settingsIcons.tsx",
+      "target_sha256": "c17ad01881e4698d9c6cb9c46dc0c79f774f48af7646b6b5729ac9e539f3e5c0",
+      "changes": "Copied original settings icons"
+    },
+    {
+      "source": "web/static/easel-icon-transparent.png",
+      "source_sha256": "71c260f5a28e82aced0a513186ebdcf43782b068633e3a7ca5f159d3e3606132",
+      "target": "frontend/public/brand/easel-icon-transparent.png",
+      "target_sha256": "71c260f5a28e82aced0a513186ebdcf43782b068633e3a7ca5f159d3e3606132",
+      "changes": "Copied original transparent brand asset"
+    },
+    {
+      "source": "web/frontend/src/components/Sidebar.tsx",
+      "source_sha256": "08ac484744d8711d137ac30474f1fdb02cc215e7fbbd5d23ad9d48a94e1dfd4e",
+      "target": "frontend/src/components/WorkbenchShell.tsx",
+      "target_sha256": "11ae424d6e8b9d3b89d7f8a31f7eaa6b7e3fe8699df56b776f9389c88e9eb9cd",
+      "changes": "Adapted original sidebar DOM/classes to template sessions, configurable navigation and brand; social accounts/profiles omitted"
+    },
+    {
+      "source": "web/frontend/src/components/DashboardPage.tsx",
+      "source_sha256": "13229b299de6e01fb37c4efb7ac6390a2e76bb49fffaca5f6266b95c8ec75642",
+      "target": "frontend/src/components/Dashboard.tsx",
+      "target_sha256": "34e7f3069aad959eb87a81b8780b3781ac5a019e8c4328aefbd123fcbb825ce1",
+      "changes": "Adapted original dashboard layout to template task/session/artifact data"
+    },
+    {
+      "source": "web/frontend/src/components/SettingsPanel.tsx",
+      "source_sha256": "ccfb1e4f2282ebfa0b020f3bc9aea01d18e0074b206c47c46626c675cbe2ccdf",
+      "target": "frontend/src/components/SettingsDialog.tsx",
+      "target_sha256": "d3f3ad5c3ebf7bda6366a0fde56fc82ac459607bd0ed243962b3ac5f3eeff9c1",
+      "changes": "Adapted modal structure to existing template channel/runtime contracts; no fake environment installer"
+    }
+  ]
+}

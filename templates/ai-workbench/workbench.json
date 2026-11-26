@@ -1,0 +1,44 @@
+{
+  "id": "ai-workbench",
+  "name": "Easel",
+  "subtitle": "可复用的 AI 工作台",
+  "port": 7870,
+  "modules": [
+    "workbench.modules.brief"
+  ],
+  "logo": "/brand/easel-icon-transparent.png",
+  "welcome_title": "今天，想一起完成什么？",
+  "welcome_subtitle": "从一个想法开始，让 AI 帮你把工作推进下去。",
+  "navigation": [
+    {
+      "id": "home",
+      "label": "工作台",
+      "icon": "dashboard"
+    },
+    {
+      "id": "chat",
+      "label": "对话",
+      "icon": "chat"
+    },
+    {
+      "id": "skills",
+      "label": "技能库",
+      "icon": "skills"
+    },
+    {
+      "id": "media",
+      "label": "AI 媒体",
+      "icon": "image"
+    },
+    {
+      "id": "jobs",
+      "label": "任务记录",
+      "icon": "calendar"
+    },
+    {
+      "id": "artifacts",
+      "label": "内容库",
+      "icon": "outputs"
+    }
+  ]
+}
